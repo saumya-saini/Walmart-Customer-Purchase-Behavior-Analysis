@@ -33,7 +33,6 @@ The dataset includes customer attributes such as:
 
 * Exploratory Data Analysis (EDA)
 * Univariate & Bivariate Analysis
-* Multivariate Analysis
 * Confidence Interval Estimation
 * Central Limit Theorem (CLT) Validation
 
@@ -65,6 +64,6 @@ The dataset includes customer attributes such as:
 
 * Helps design targeted marketing strategies based on gender
 * Identifies high-revenue product categories
-Enables data-driven decision making using statistical validation
+* Enables data-driven decision making using statistical validation
 
 Supports better inventory and promotion planning
